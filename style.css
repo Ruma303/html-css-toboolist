@@ -116,3 +116,7 @@ span {
     background-color: rgb(174, 200, 45);
     width: 60px;
 }
+
+span{
+    vertical-align: middle;
+}
