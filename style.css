@@ -79,9 +79,14 @@ span {
     text-align: center;
 }
 
-.ok,.no {
+.ok {
     width: 25px;
 }
+
+.no{
+    width: 35px;
+}
+
 
 .blue{
     background-color: rgb(72, 173, 239);
